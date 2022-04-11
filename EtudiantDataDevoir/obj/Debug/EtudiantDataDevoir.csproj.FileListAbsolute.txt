@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\EtudiantDataDevoir\EtudiantDataDevoir\bin\Debug\EtudiantDataDevoir.exe.config
+C:\Users\dell\source\repos\EtudiantDataDevoir\EtudiantDataDevoir\bin\Debug\EtudiantDataDevoir.exe
+C:\Users\dell\source\repos\EtudiantDataDevoir\EtudiantDataDevoir\bin\Debug\EtudiantDataDevoir.pdb
+C:\Users\dell\source\repos\EtudiantDataDevoir\EtudiantDataDevoir\obj\Debug\EtudiantDataDevoir.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\EtudiantDataDevoir\EtudiantDataDevoir\obj\Debug\EtudiantDataDevoir.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\EtudiantDataDevoir\EtudiantDataDevoir\obj\Debug\EtudiantDataDevoir.Form1.resources
+C:\Users\dell\source\repos\EtudiantDataDevoir\EtudiantDataDevoir\obj\Debug\EtudiantDataDevoir.Form2.resources
+C:\Users\dell\source\repos\EtudiantDataDevoir\EtudiantDataDevoir\obj\Debug\EtudiantDataDevoir.Properties.Resources.resources
+C:\Users\dell\source\repos\EtudiantDataDevoir\EtudiantDataDevoir\obj\Debug\EtudiantDataDevoir.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\EtudiantDataDevoir\EtudiantDataDevoir\obj\Debug\EtudiantDataDevoir.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\EtudiantDataDevoir\EtudiantDataDevoir\obj\Debug\EtudiantDataDevoir.exe
+C:\Users\dell\source\repos\EtudiantDataDevoir\EtudiantDataDevoir\obj\Debug\EtudiantDataDevoir.pdb
